@@ -6,7 +6,7 @@ import mxnet as mx
 
 import numpy as np
 import tensorflow as tf
-import segmentation_models as sm
+import segmentation-models as sm
 from .keras_layers import pyramid_layer
 from ..preprocessing.image import _build_homo_preprocessing
 from ..preprocessing.image import _build_keypoint_preprocessing
